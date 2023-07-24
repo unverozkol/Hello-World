@@ -1,1 +1,6 @@
 Bu yeni bir dosya - 24 Tem 2023 11:55
+
+yeni bir line ekliyorum - 12:29
+
+Bu satır "FixText" isimli branch içinden eklendi
+
